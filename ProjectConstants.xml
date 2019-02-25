@@ -3,7 +3,7 @@
 	<DataSet name="Templates - RTF Project Constants" table="t_rtf where [Type]='ProjectOpts'" filter="[Type]='ProjectOpts'">
 		<DataRow>
 			<Column name="Type" value="ProjectOpts"/>
-			<Column name="Template" value="AkRok=2016/2017;Kruzok=Ut 8:00, PU1;Program=Informatika;Rocnik=2;Studenti=Jožko Mrkvi&#269;ka, Zuzana Hrušková;Veduci=Ing. Fero U&#269;ite&#318;;"/>
+			<Column name="Template" value="AkRok=2018/2019;Kruzok=Ut 8:00, PU1;Program=Informatika;Rocnik=2;Studenti=Jožko Mrkvi&#269;ka, Zuzana Hrušková;Veduci=Ing. Fero U&#269;ite&#318;;"/>
 		</DataRow>
 	</DataSet>
 </RefData>
