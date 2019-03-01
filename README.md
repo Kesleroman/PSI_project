@@ -1,7 +1,7 @@
 # PSI Project
 
 ### ***TODO list***:
-1. Projekt má jasne definovaných aspoň 5 overiteľných cieľov a identifikované vlastnosti, ktoré odrážajú ciele. (Kap 2)
+1. Projekt má jasne definovaných aspoň 5 overiteľných cieľov a identifikované vlastnosti, ktoré odrážajú ciele. (Kap 2) ☑
 2. Biznis procesný model. (Kap 3)
 3. Identifikovaných aspoň 5 procesov , ktoré sú vykonávané v spoločnosti, pre ktorú je modelovaný informačný systém.
    Procesy musia byť zvolené tak aby pokrývali požadované funkčné vlastnosti produktu. Každý proces má správne
